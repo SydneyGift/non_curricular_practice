@@ -8,4 +8,4 @@ total = 0
 for number in numbers:
     total = total + number
 
-print("The total of the numbers is", total)
+print("The total of the numbers is ", total)
